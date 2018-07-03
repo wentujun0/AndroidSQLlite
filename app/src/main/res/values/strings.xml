@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">点菜系统</string>
+    <string name="tV02">用户名：</string>
+    <string name="tV03">密码：</string>
+    <string name="tV04">姓名：</string>
+    <string name="tV05">年龄：</string>
+    <string name="bu01">注册</string>
+    <string name="bu02">重置</string>
+    <string name="tV01">用户注册</string>
+    <string name="tV11">用户登录</string>
+    <string name="tV12">用户名：</string>
+    <string name="tV13">密码：</string>
+    <string name="bu11">登录</string>
+    <string name="bu12">注册</string>
+    <string name="bu13">查询</string>
+    <string name="tV21">欢迎使用</string>
+    <string name="bu21">查询所有用户信息</string>
+</resources>
